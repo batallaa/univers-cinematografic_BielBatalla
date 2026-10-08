@@ -18,5 +18,11 @@
 - Protagonistes: Avengers.
 - Antagonista: Thanos.
 - Escenari principal: La Terra.
-- Argument: Els herois lluiten per protegir el futur de la humanitat.
-- Capítols relacionats: Capítol 3 i Capítol 4.
+- Argument: Els herois lluiten per protegir el futur de la hu
+
+## 4. El nou univers
+- Protagonistes: Spider-Man i Black Panther.
+- Antagonista: Un nou enemic tecnològic.
+- Escenari principal: Wakanda i Nova York.
+- Argument: Els herois descobreixen una nova amenaça que connecta els seus dos mons.
+- Capítols relacionats: Capítol 5.

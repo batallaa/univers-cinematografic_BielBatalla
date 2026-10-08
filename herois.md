@@ -30,3 +30,5 @@
 - Poder/tecnologia: Força sobrehumana.
 - Origen: Científic afectat per radiació.
 - Funció: Força principal de l'equip.
+
+- Relació: Iron Man i Spider-Man treballen junts com a mentor i aprenent.
